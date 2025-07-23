@@ -34,7 +34,7 @@ An interactive 3D AI Agent built with React Native, Expo, and Three.js, featurin
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/skkuhg/3D-AI-Agent-RAG.git
    cd 3D-AI-Agent
    ```
 
